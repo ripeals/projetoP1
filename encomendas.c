@@ -10,7 +10,7 @@
     lerData();
     printf("\n\tIntroduza o peso da encomenda: ");
 
-
+testar
     printf("\n\tIntroduza o estado da encomenda:");
         printf("\n\t\tRegistada: 1");
         printf("\n\t\tCarregada: 2");
